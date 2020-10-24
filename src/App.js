@@ -50,5 +50,6 @@ function handleClearTodos(){
     <div>{todos.filter(todo => !todo.complete).length} left to do</div>
     </>
   )
-}
+}/////SERONJITA xD
 export default App;
+export default seronjita;
